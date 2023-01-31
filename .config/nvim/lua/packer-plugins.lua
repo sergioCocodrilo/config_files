@@ -16,4 +16,5 @@ return require('packer').startup(function()
 	  tag = 'nightly' -- optional, updated every week. (see issue #1193)
 	}
     use "terrortylor/nvim-comment"
+    use 'tpope/vim-dadbod'
 end)
