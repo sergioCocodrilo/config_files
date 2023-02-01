@@ -36,6 +36,8 @@ picom &
 xbindkeys
 setxkbmap -option caps:escape
 setxkbmap -layout us,es -option grp:win_space_toggle
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/mac_laptop
 PATH="/home/sergio/.local/bin:$PATH"
 # exec qtile start
 exec i3
