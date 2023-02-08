@@ -1,7 +1,8 @@
 font:
   normal:
     #family: monospace
-    family: mononoki Nerd Font Mono
+    family: mononoki
+    # family: mononoki Nerd Font Mono
     #family: FiraCode Nerd Font Mono
     style: Retina
 
