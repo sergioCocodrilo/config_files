@@ -201,5 +201,8 @@ default_border pixel 1
 default_floating_border pixel 1
 for_window [class="^.*"] border pixel 1
 
+gaps inner 12
+smart_gaps on
+
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
