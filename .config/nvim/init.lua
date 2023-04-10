@@ -4,7 +4,8 @@ vim.o.number = true
 vim.o.relativenumber = true
 vim.o.scrolloff = 4
 vim.o.wrap = false
-vim.opt.clipboard = "unnamedplus"
+vim.o.clipboard = "unnamedplus"
+vim.o.colorcolumn = "80"
 
 vim.o.tabstop = 4
 vim.o.shiftwidth = 4
