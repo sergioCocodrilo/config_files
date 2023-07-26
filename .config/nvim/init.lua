@@ -16,7 +16,7 @@ require('packer-plugins')
 
 -- transparent
 require("transparent").setup({
-  enable = true, -- boolean: enable transparent
+  -- enable = true, -- boolean: enable transparent
   extra_groups = { -- table/string: additional groups that should be cleared
     -- In particular, when you set it to 'all', that means all available groups
 
@@ -28,7 +28,7 @@ require("transparent").setup({
     "BufferLineSeparator",
     "BufferLineIndicatorSelected",
   },
-  exclude = {}, -- table: groups you don't want to clear
+  exclude_groups = {}, -- table: groups you don't want to clear
 })
 
 -- telescope
@@ -58,3 +58,20 @@ local function map(mode, key, value)
 end
 map('n', '<C-n>', ':NvimTreeToggle<CR>')
 vim.api.nvim_set_keymap('', '<leader>co', ':call NERDComment(0, "Toggle")<CR>', {noremap = true})
+
+-- dadbod
+map('n', '<F2>', ':DB postgres://localhost/telmex < %<CR>')
+
+-- highlight current word
+require('nvim-cursorline').setup {
+  cursorline = {
+    enable = true,
+    timeout = 1000,
+    number = false,
+  },
+  cursorword = {
+    enable = true,
+    min_length = 3,
+    hl = { underline = true },
+  }
+}

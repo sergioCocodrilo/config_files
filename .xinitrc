@@ -39,4 +39,5 @@ setxkbmap -layout us,es -option grp:win_space_toggle
 PATH="/home/sergio/.local/bin:$PATH"
 # exec qtile start
 exec i3
+# exec startxfce4
 

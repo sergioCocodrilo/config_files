@@ -17,4 +17,5 @@ return require('packer').startup(function()
 	}
     use "terrortylor/nvim-comment"
     use 'tpope/vim-dadbod'
+    use 'yamatsum/nvim-cursorline'
 end)

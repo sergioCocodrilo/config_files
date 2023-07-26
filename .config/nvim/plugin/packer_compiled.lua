@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/sergio/.local/share/nvim/site/pack/packer/start/nvim-comment",
     url = "https://github.com/terrortylor/nvim-comment"
   },
+  ["nvim-cursorline"] = {
+    loaded = true,
+    path = "/home/sergio/.local/share/nvim/site/pack/packer/start/nvim-cursorline",
+    url = "https://github.com/yamatsum/nvim-cursorline"
+  },
   ["nvim-transparent"] = {
     loaded = true,
     path = "/home/sergio/.local/share/nvim/site/pack/packer/start/nvim-transparent",
@@ -113,6 +118,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/sergio/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
     url = "https://github.com/folke/tokyonight.nvim"
+  },
+  ["vim-dadbod"] = {
+    loaded = true,
+    path = "/home/sergio/.local/share/nvim/site/pack/packer/start/vim-dadbod",
+    url = "https://github.com/tpope/vim-dadbod"
   }
 }
 
