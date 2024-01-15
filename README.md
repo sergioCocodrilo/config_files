@@ -14,6 +14,10 @@ sudo pacman -S thunar
 sudo pacman -S gthumb
 sudo pacman -S ntfs-3g
 sudo pacman -S zathura zathura-pdf-mupdf 
+sudo pacman -S xclip
+sudo pacman -S udisks2 udiskie
+sudo pacman -S tree ripgrep fd
+sudo pacman -S ttf-mononoki-nerd
 
 # To install
 - nvim packer and install all plugins :PackerSync
@@ -51,3 +55,7 @@ sudo cat << EOT >> /etc/vconsole.conf
 FONT=ter-p24n
 FONT_MAP=8859-2
 EOT
+
+# for the old macbook Pro:
+Install https://aur.archlinux.org/b43-firmware.git for wifi
+sudo pacman -S intel-ucode # All users with an AMD or Intel CPU should install the microcode updates to ensure system stability.
