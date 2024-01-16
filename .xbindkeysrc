@@ -1,3 +1,6 @@
+############################################################
+# Volume
+############################################################
 # Increase volume
 "pactl set-sink-volume @DEFAULT_SINK@ +10%"
    XF86AudioRaiseVolume
@@ -10,13 +13,31 @@
 "pactl set-sink-mute @DEFAULT_SINK@ toggle"
    XF86AudioMute
 
-# Mute microphone
-"pactl set-source-mute @DEFAULT_SOURCE@ toggle"
-   XF86AudioMicMute
 
+############################################################
+# Screen
+############################################################
 # Backlights
 "xbacklight -inc 10"
    XF86MonBrightnessUp
 
 "xbacklight -dec 10"
    XF86MonBrightnessDown
+
+
+############################################################
+# Player
+############################################################
+"playerctl play-pause"
+    XF86AudioPlay
+"playerctl stop"
+    XF86AudioStop
+"playerctl next"
+    XF86AudioNext
+"playerctl previous"
+    XF86AudioPrev
+
+
+# Mute microphone
+"pactl set-source-mute @DEFAULT_SOURCE@ toggle"
+   XF86AudioMicMute

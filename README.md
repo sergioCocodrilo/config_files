@@ -18,6 +18,7 @@ sudo pacman -S xclip
 sudo pacman -S udisks2 udiskie
 sudo pacman -S tree ripgrep fd
 sudo pacman -S ttf-mononoki-nerd
+sudo pacman -S playerctl
 
 # To install
 - nvim packer and install all plugins :PackerSync
