@@ -2,7 +2,7 @@ font:
   normal:
     #family: monospace
     family: mononoki Nerd Font Mono
-    #family: FiraCode Nerd Font Mono
+    #family: FiraCode Nerd Font Mono Light
     style: Retina
 
 window:

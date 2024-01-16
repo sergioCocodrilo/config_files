@@ -33,9 +33,10 @@ fi
 exec xrandr --output DP-4 --auto --output HDMI-0 --auto --left-of DP-4 &
 nitrogen --restore &
 picom &
+udiskie -a &
 xbindkeys
 setxkbmap -option caps:escape
-setxkbmap -layout us,es -option grp:win_space_toggle
+setxkbmap -layout us,es -option grp:ctrl_alt_toggle
 PATH="/home/sergio/.local/bin:$PATH"
 # exec qtile start
 exec i3
