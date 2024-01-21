@@ -83,7 +83,7 @@ Arch Install
 delete all partitions (borrar todas las particiones)
 
 ```
-    d ENTER             Repetir para cada una de las particiones existentes
+    d ENTER             REPETIR PARA CADA UNA DE LAS PARTICIONES EXISTENTES
 ```
 Cuando no haya más particiones, crear una nueva tabla de particiones
 
@@ -94,7 +94,7 @@ Cuando no haya más particiones, crear una nueva tabla de particiones
 create partitions (crear las particiones)
 
 ```
-    n,1,intro,+550M     Do you want to remove the signature? Y
+    n,1,intro,+550M     SI APARECE: Do you want to remove the signature? Y
     n,2,intro,+2G
     n,3,intro,+100G
     n,4,intro,intro
@@ -103,8 +103,8 @@ create partitions (crear las particiones)
 chance type of partitions (cambiar el tipo de particiones)
 
 ```
-    t,1,1   efi system
-    t,2,19  linux swap
+    t,1,1           EFI SYSTEM
+    t,2,19          LINUX SWAP
 ```
 
 write the partitions (escribir las particiones, esto ejecuta todos los cambios del paso 2)
