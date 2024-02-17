@@ -1,6 +1,4 @@
-/.config/spotify/
-/.config/gtk*/
-/.config/pulse/
+/.config/Code - OSS/
 /.config/GIMP/
 /.config/QtProject.conf
 /.config/RawTherapee/
@@ -8,9 +6,11 @@
 /.config/Surge XT.settings
 /.config/Thunar/
 /.config/Unknown Organization/
+/.config/VirtualBox/
 /.config/Wire/
 /.config/ardour8/
 /.config/audacity/
+/.config/autorandr/
 /.config/blender/
 /.config/calibre/
 /.config/cef_user_data/
@@ -19,6 +19,7 @@
 /.config/dconf/
 /.config/fltk.org/
 /.config/gthumb/
+/.config/gtk*/
 /.config/gtk-2.0/
 /.config/gtk-3.0/
 /.config/htop/
@@ -28,15 +29,22 @@
 /.config/libreoffice/
 /.config/menus/
 /.config/mimeapps.list
+/.config/nvim_lazyvim_bak/
 /.config/obs-studio/
+/.config/obsidian/
 /.config/okularpartrc
 /.config/okularrc
+/.config/pulse/
+/.config/pupgui/
 /.config/qBittorrent/
 /.config/ranger/
 /.config/simple-scan/
 /.config/spotify/
+/.config/spotify/
+/.config/sqlitebrowser/
 /.config/sublime-text/
 /.config/teamviewer/
+/.config/unity3/
 /.config/user-dirs.dirs
 /.config/user-dirs.locale
 /.config/vlc/
