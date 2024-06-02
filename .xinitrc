@@ -38,5 +38,5 @@ xbindkeys
 setxkbmap -option caps:escape
 setxkbmap -layout us,es -option grp:ctrl_alt_toggle
 PATH="/home/sergio/.local/bin:$PATH"
-# exec qtile start
-exec i3
+exec qtile start
+#exec i3

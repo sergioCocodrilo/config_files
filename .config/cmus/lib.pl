@@ -4602,6 +4602,18 @@
 /home/sergio/Music/Eric Clapton/Unplugged/12 Malted Milk.mp3
 /home/sergio/Music/Eric Clapton/Unplugged/13 Old Love.mp3
 /home/sergio/Music/Eric Clapton/Unplugged/14 Rollin' & Tumblin'.mp3
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/01. Voice of a Child (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/02. Tears in Heaven (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/03. Layla (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/04. Nobody Knows You When You're Down and Out (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/05. Key To The Highway (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/06. Hoochie Coochie Man (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/07. River of Tears (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/08. Got To Get Better In A Little While (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/09. The Sky Is Crying (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/10. Crossroads (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/11. Give Me Love (Give Me Peace on Earth) (Live).flac
+/home/sergio/Music/Eric Clapton - To Save a Child (2024) [16Bit-44.1kHz] FLAC [PMEDIA] ⭐️/12. Prayer of a Child.flac
 /home/sergio/Music/Ren & Stimpy Production Music Vol. 1/15 Trafficscape.mp3
 /home/sergio/Music/Ren & Stimpy Production Music Vol. 1/56 Clarion Call.mp3
 /home/sergio/Music/Ren & Stimpy Production Music Vol. 1/62 Our Mr. Meredith.mp3
@@ -8169,6 +8181,15 @@
 /home/sergio/Music/Neil Young/Greatest Hits/14 Hey Hey My My ( Into The Black ).mp3
 /home/sergio/Music/Neil Young/Greatest Hits/15 Rockin In The Free World.mp3
 /home/sergio/Music/Neil Young/Greatest Hits/16 Harvest Moon.mp3
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/01 City Life (Country Home).flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/02 Feels Like a Railroad (River of Pride) [White Line].flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/03 Heart of Steel (Fuckin' Up).flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/04 Broken Circle (Over and Over).flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/05 Valley of Hearts (Love to Burn).flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/06 Farmer John.flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/07 Walkin' In My Place (Road of Tears) [Mansion On the Hill].flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/08 To Follow One's Own Dream (Days That Used to Be).flac
+/home/sergio/Music/Neil Young - Fu##in' Up (2024) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/09 A Chance on Love (Love and Only Love).flac
 /home/sergio/Music/Nellie Mckay/P.S. I Love You/13 P.S. I Love You.mp3
 /home/sergio/Music/Neon Neon/Stainless Style/01 Neon Theme.mp3
 /home/sergio/Music/Neon Neon/Stainless Style/02 Dream Girls.mp3
@@ -9584,6 +9605,50 @@
 /home/sergio/Music/Richard Hawley/Lady's Bridge/10 Our Darkness.mp3
 /home/sergio/Music/Richard Hawley/Lady's Bridge/11 The Sun Refused To Shine.mp3
 /home/sergio/Music/Rick Danko/The Anthology... So Far [Disc 1]/1-08 Raining In My Heart (Live).mp3
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/1
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/01. That's My Little Suzie.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/2
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/02. Cry Cry Cry.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/3
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/03. Ooh! My Head.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/4
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/04. La Bamba.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/5
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/05. We Belong Together.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/6
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/06. Framed.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/7
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/07. Bluebirds Over The Mountain.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/8
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/08. Come On Let's Go.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/9
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/09. Donna.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/10
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/10. Ritchie's Blues.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/11
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/11. Bony Maronie.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/12
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/12. Little Girl.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/13
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/13. Hi-Tone.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/14
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/14. Fast Freight.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/15
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/15. Stay Beside Me.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/16
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/16. Hurry Up.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/17
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/17. Paddi-Wack Song.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/18
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/18. Dooby Dooby Wah.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/19
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/19. In A Turkish Town.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/20
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/20. Rockin' All Night.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/21
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/21. Malagueña.flac
+cue:///home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/Rockin' All Night_ The Very Best Of Ritchie Valens.cue/22
+/home/sergio/Music/Ritchie Valens - Rockin' All Night_ The Very Best Of Ritchie Valens (1995 FLAC) 88/22. Big Baby Blues.flac
 /home/sergio/Music/R. Kelly/Unknown Album/Trapped in the Closet - Chapter 11.mp3
 /home/sergio/Music/R.L. Burnside/RL Burnside - A Ass Pocket Of Whiskey (1996)/01. Goin' Down South.mp3
 /home/sergio/Music/R.L. Burnside/RL Burnside - A Ass Pocket Of Whiskey (1996)/02. Boogie Chillen.mp3
@@ -10364,6 +10429,113 @@
 /home/sergio/Music/Sigur Rós/Takk/03 Hoppipolla.mp3
 /home/sergio/Music/Sigur Rós/Me› Su› í Eyrum Vi› Spilum Endalaust/02 09 Inní mér syngur vitleysingur.mp3
 /home/sergio/Music/Simon & Garfunkel/(500) Days Of Summer/12 Bookends.mp3
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/01. Money’s Too Tight (To Mention).flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/02. Holding Back The Years.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/03. Sad Old Red.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/04. Come To My Aid.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/05. Open Up The Red Box.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/06. Jericho.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/07. The Right Thing.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/08. Maybe Someday….flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/09. Ev’ry Time We Say Goodbye.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/10. I Won’t Feel Bad.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/11. It’s Only Love.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/12. If You Don’t Know Me By Now.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/13. A New Flame.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/14. You’ve Got It.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 1 - The 1980's/15. Enough.flac
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/1
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/2
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/3
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/4
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/5
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/6
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/7
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/8
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/9
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/10
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/11
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/12
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/13
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/14
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/15
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/16
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/Simply Red - Song Book 1985 – 2010 (2).cue/17
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/01. Something Got Me Started.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/02. Stars.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/03. For Your Babies.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/04. Thrill Me.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/05. Your Mirror.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/06. Lady Godiva’s Room.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/07. Fairground.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/08. Remembering The First Time.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/09. Never Never Love.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/10. We’re In This Together.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/11. So Beautiful.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/12. Angel.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/13. Night Nurse.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/14. The Air That I Breathe.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/15. Ghetto Girl.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/16. Ain’t That A Lot Of Love.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 2 - The 1990's/17. Say You Love Me.flac
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/1
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/2
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/3
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/4
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/5
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/6
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/7
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/8
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/9
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/10
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/11
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/12
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/13
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/14
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/15
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/16
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/Simply Red - Song Book 1985 – 2010 (3).cue/17
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/01. Sunrise.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/02. Your Eyes.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/03. Fake.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/04. You Make Me Feel.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/05. Home.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/06. My Perfect Love.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/07. Smile.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/08. Sad Old Red.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/09. Positively 4th Street.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/10. Oh! What A Girl!.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/11. Perfect Love.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/12. Stay.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/13. So Not Over You.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/14. The World And You Tonight.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/15. I Have The Love.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/16. A Song For You.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 3 - The 2000's/17. It’s You.flac
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/1
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/2
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/3
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/4
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/5
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/6
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/7
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/8
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/9
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/10
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/11
+cue:///home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/Simply Red - Song Book 1985 – 2010 (4).cue/12
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/01. Picture Book.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/02. Come To My Aid.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/03. Heaven.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/04. Jericho.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/05. Infidelity.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/06. Enough.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/07. So Beautiful.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/08. Out On The Range.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/09. You Make Me Believe.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/10. Mellow My Mind.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/11. The Sky Is A Gypsy.flac
+/home/sergio/Music/Simply Red - Song Book 1985-2010 (2013 FLAC) 88/CD 4 - The Band Of 2005 (Re-recorded At Home In 2005)/12. Something For You.flac
 /home/sergio/Music/Siniestro Total/Unknown Album/Bailare sobre tu tumba.mp3
 /home/sergio/Music/Sisters Love/Give Me Your Love/01 Give Me Your Love.mp3
 /home/sergio/Music/skazi/CDS/10 Acelera.mp3
@@ -10528,6 +10700,16 @@
 /home/sergio/Music/VA The Chess Story - 1947-1975 [14CD Box Set](mp3@320)[rogercc][h33t]/Disc 1/13. St Louis Jimmy - Florida Hurricane.mp3
 /home/sergio/Music/Students/The Ultimate Doo Wop Collection [Collectables] (1 of 2)/10 I'm So Young.mp3
 /home/sergio/Music/Students/The Ultimate Doo Wop Collection [Collectables] (2 of 2)/07 Every Day of the Week.mp3
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/01 Hell Is Near.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/02 Reckless.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/03 Broken Man.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/04 Flea.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/05 Big Time Nothing.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/06 Violent Times.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/07 The Power's Out.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/08 Sweetest Fruit.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/09 So Many Planets.flac
+/home/sergio/Music/St. Vincent - All Born Screaming (2024) [24Bit-48kHz] FLAC [PMEDIA] ⭐️/10 All Born Screaming.flac
 /home/sergio/Music/Suave As Hell/www.mehaceruido.com/Tiger in a Cage (versión MHR).mp3
 /home/sergio/Music/Subcomandante Insurgente Marcos/Unknown Album/12 SI Marcos.mp3
 /home/sergio/Music/Subcomandante Insurgente Marcos/Unknown Album/El amor segun anduliio.mp3

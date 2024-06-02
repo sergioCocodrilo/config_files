@@ -47,7 +47,9 @@ require("lazy").setup({
 	},
     'kamykn/spelunker.vim',
     'godlygeek/tabular',
-    { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} }
+    { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} }, -- indent guides
+    "sindrets/diffview.nvim",
+    { 'echasnovski/mini.nvim', version = false }
 })
 
 -- Transparency
@@ -122,4 +124,4 @@ end
 map('n', '<C-n>', ':NvimTreeToggle<CR>')
 vim.api.nvim_set_keymap('', '<leader>co', ':call nerdcommenter#Comment(0, "Toggle")<CR>', {noremap = true})
 
-
+require('mini.align').setup()
