@@ -94,9 +94,9 @@ Cuando no haya más particiones, crear una nueva tabla de particiones
 create partitions (crear las particiones)
 
 ```
-    n,1,intro,+550M     SI APARECE: Do you want to remove the signature? Y
-    n,2,intro,+2G
-    n,3,intro,+100G
+    n,1,intro,+1G     SI APARECE: Do you want to remove the signature? Y
+    n,2,intro,+4G
+    n,3,intro,+200G
     n,4,intro,intro
 ```
 
@@ -125,9 +125,10 @@ write the partitions (escribir las particiones, esto ejecuta todos los cambios d
 4. Mount the file systems (montar las particiones)
 
 ```
-    # mount /dev/sda3 /mnt
-    # mount /dev/sda1 /boot
-    # swapon /dev/sda2
+    # mount /dev/nvme0n1p3 /mnt
+    # mount --mkdir /dev/nvme0n1p1 /mnt/boot
+    # swapon /dev/nvme0n1p2
+    # mount --mkdir /dev/nvme0n1p4 /mnt/home
 ```
 
 5. Install essential packages (instalar los paquetes esenciales)
