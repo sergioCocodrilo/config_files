@@ -127,8 +127,8 @@ write the partitions (escribir las particiones, esto ejecuta todos los cambios d
 ```
     # mount /dev/nvme0n1p3 /mnt
     # mount --mkdir /dev/nvme0n1p1 /mnt/boot
-    # swapon /dev/nvme0n1p2
     # mount --mkdir /dev/nvme0n1p4 /mnt/home
+    # swapon /dev/nvme0n1p2
 ```
 
 5. Install essential packages (instalar los paquetes esenciales)
@@ -182,6 +182,11 @@ Descomentar la linea de %wheel ALL=(ALL) ALL
 
 ```
     # pacman -S grub efibootmgr dosfstools os-prober mtools
+```
+
+GRUB
+
+```
     # mkdir /boot/EFI
     # mount /dev/sda1 /boot/EFI
     # grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck
@@ -191,7 +196,7 @@ Descomentar la linea de %wheel ALL=(ALL) ALL
 8. Extra packages (instalar paquetes)
 
 ```
-    # pacman -S networkmanager i3-wm git tmux base-devel xorg xorg-init nitrogen picom kitty firefox base-devel cups polybar
+    # pacman -S networkmanager tmux xorg-server xorg-xinit nitrogen picom kitty firefox base-devel cups qtile
     # systemctl enable NetworkManager
     # exit
     # umount /mnt         SI NO FUNCIONA --->  umount -l /mnt
