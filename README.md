@@ -1,24 +1,6 @@
 # config_files
 The .conf files go in /etc/X11/xorg.conf.d/
 
-# Install
-sudo pacman -S base-devel
-sudo pacman -S xorg tmux picom startx firefox rofi
-sudo pacman -S xorg-xinit nitrogen alacritty
-sudo pacman -S zsh
-sudo pacman -S xbindkeys
-sudo pacman -S vlc
-sudo pacman -S i3-wm
-sudo pacman -S polybar
-sudo pacman -S thunar
-sudo pacman -S gthumb
-sudo pacman -S ntfs-3g
-sudo pacman -S zathura zathura-pdf-mupdf 
-sudo pacman -S xclip
-sudo pacman -S udisks2 udiskie
-sudo pacman -S tree ripgrep fd
-sudo pacman -S ttf-mononoki-nerd
-sudo pacman -S playerctl
 
 # To install
 - nvim packer and install all plugins :PackerSync
@@ -36,10 +18,6 @@ https://aur.archlinux.org/nerd-fonts-fira-code.git
 https://aur.archlinux.org/nerd-fonts-complete.git
 https://aur.archlinux.org/psst-git.git
 
-# python
-sudo pacman -S xclip
-sudo pacman -S python-pip
-python3 -m pip install virtualenv
 
 # Run audio from user account
 sudo pacman -S pipewire qpwgraph wireplumber pulseaudio-alsa pipewire-alsa pipewire-pulse
@@ -207,216 +185,28 @@ GRUB
 
 # Installed packages in previous OS:
 
-The following packages are the output of pacman -Qe.
+sudo pacman -S arandr audacity autorandr blueman bluez bluez-utils calibre chromium clang cmus code cups-pdf dfu-programmer dfu-util dialog docker docker-compose dunst fd feh gimp gmtp gnome-bluetooth-3.0 gnome-clocks gnome-control-center gnome-disk-utility gnome-multi-writer gnome-subtitles gthumb gvfs hplip htop inkscape jre-openjdk krita lazygit libreoffice-still libva-utils libvncserver lutris lvm2 lxrandr nautilus netctl network-manager-applet networkmanager-openvpn nm-connection-editor nmap nodejs nsxiv ntp nvidia nvidia-lts nvidia-settings obs-studio okular openbsd-netcat p7zip pavucontrol pdfgrep picocom pipewire-alsa pipewire-pulse playerctl polybar postgresql python-dbus-next python-keyring python-pip python-pipenv python-pynvim python-pythondialog qbittorrent qgis rawtherapee rofi sane scrot shotwell simple-scan socat sof-firmware spotify-launcher sqlitebrowser system-config-printer telegram-desktop terminus-font texlive-basic texlive-bibtexextra texlive-fontsextra texlive-formatsextra texlive-games texlive-humanities texlive-latexextra texlive-mathscience texlive-music texlive-pictures texlive-pstricks texlive-publishers thunar thunar-archive-plugin thunar-media-tags-plugin thunar-volman tmate tree tree-sitter-cli ttf-firacode-nerd ttf-mononoki-nerd udiskie unrar vim virtualbox virtualbox-guest-utils vlc w3m wget wire-desktop wireless_tools xbindkeys xclip xorg-bdftopcf xorg-docs xorg-font-util xorg-fonts-100dpi xorg-fonts-75dpi xorg-iceauth xorg-mkfontscale xorg-server-devel xorg-server-xephyr xorg-server-xnest xorg-server-xvfb xorg-sessreg xorg-smproxy xorg-x11perf xorg-xbacklight xorg-xcmsdb xorg-xcursorgen xorg-xdpyinfo xorg-xdriinfo xorg-xev xorg-xgamma xorg-xhost xorg-xinput xorg-xkbevd xorg-xkbutils xorg-xkill xorg-xlsatoms xorg-xlsclients xorg-xpr xorg-xrandr xorg-xrefresh xorg-xset xorg-xsetroot xorg-xvinfo xorg-xwayland xorg-xwd xorg-xwininfo xorg-xwud xterm zathura zathura-pdf-mupdf zip zsh udisks2
 
-alacritty 0.13.2-2
-apfs-fuse-git r101.66b86bd-1
-arandr 0.1.11-3
-audacity 1:3.5.1-2
-autorandr 1.15-1
-base 3-2
-base-devel 1-1
-blueman 2.4.1-2
-bluez 5.76-1
-bluez-utils 5.76-1
-calibre 7.10.0-2
-chromium 125.0.6422.76-1
-clang 17.0.6-2
-cmus 2.10.0-4
-code 1.89.1-1
-cups 1:2.4.8-1
-cups-pdf 3.0.1-7
-dfu-programmer 1.1.0-1
-dfu-util 0.11-2
-dialog 1:1.3_20240307-2
-docker 1:26.1.3-1
-docker-compose 2.27.0-1
-dosfstools 4.2-3
-dunst 1.11.0-1
-efibootmgr 18-3
-fd 10.1.0-1
-feh 3.10.2-1
-firefox 126.0-1
-gimp 2.10.38-1
-git 2.45.1-1
-gmtp 1.3.11-3
-gnome-bluetooth-3.0 46.0-1
-gnome-clocks 46.0-1
-gnome-control-center 46.1-2
-gnome-disk-utility 46.0-1
-gnome-multi-writer 3.35.90-1
-gnome-subtitles 1.7.2-1
-gromit-mpx 1.4.3-2
-grub 2:2.12-2
-gthumb 3.12.6-1
-gvfs 1.54.0-3
-hplip 1:3.23.12-6
-htop 3.3.0-3
-huiontablet v15.0.0.121.202301131103-1
-inkscape 1.3.2-5
-iscan 2.30.4.2-3
-jre-openjdk 22.0.1.u0-1
-kitty 0.33.1-4
-krita 5.2.2-9
-lazygit 0.42.0-1
-libreoffice-still 7.6.7-1
-libva-utils 2.21.0-1
-libvncserver 0.9.14-2
-linux 6.9.1.arch1-2
-linux-firmware 20240510.b9d2bf23-1
-lutris 0.5.17-4
-lvm2 2.03.24-1
-lxrandr 0.3.2-3
-mons 0.8.2-1
-mtools 1:4.0.43-1
-nautilus 46.1-1
-neovim 0.10.0-2
-nerd-fonts-complete-mono-glyphs 2.1.0-1
-netctl 1.29-1
-network-manager-applet 1.36.0-1
-networkmanager 1.46.0-2
-networkmanager-openvpn 1.10.4-1
-nitrogen 1.6.1-5
-nm-connection-editor 1.36.0-1
-nmap 7.95-1
-nodejs 22.2.0-1
-nsxiv 32-4
-ntp 4.2.8.p17-1
-nvidia 550.78-5
-nvidia-lts 1:550.78-4
-nvidia-settings 550.78-1
-nvim-packer-git r566.1d0cf98-1
-obs-studio 30.1.2-1
-okular 24.02.2-1
-openbsd-netcat 1.226_1-2
-os-prober 1.81-1
-p7zip 1:17.05-2
-pavucontrol 1:5.0+r66+gc330506-1
-pdfgrep 2.2.0-4
-picocom 3.1-3
-picom 11.2-1
-pipewire-alsa 1:1.0.6-1
-pipewire-pulse 1:1.0.6-1
-playerctl 2.4.1-3
-polybar 3.7.1-1
-postgresql 16.2-4
-python-dbus-next 0.2.3-5
-python-keyring 25.2.0-1
-python-pip 24.0-2
-python-pipenv 2023.12.1-2
-python-proton-client 0.7.1-2
-python-protonvpn-nm-lib 3.16.0-1
-python-pulsectl-asyncio 1.2.0-1
-python-pynvim 0.5.0-3
-python-pythondialog 3.5.3-3
-python310 3.10.13-1
-qbittorrent 4.6.4-1
-qgis 3.36.2-2
-qtile 0.25.0-2
-rawtherapee 1:5.10-2
-rofi 1.7.5-2
-samsung-unified-driver 1.00.39-6
-sane 1.3.1-1
-scrot 1.10-3
-shotwell 2:0.32.6-2
-simple-scan 46.0-1
-socat 1.8.0.0-1
-sof-firmware 2024.03-1
-spotify-launcher 0.5.4-1
-sqlitebrowser 3.12.2-3
-steam 1.0.0.79-2
-sublime-text-4 4.4143-4
-system-config-printer 1.5.18-4
-telegram-desktop 5.0.1-1
-terminus-font 4.49.1-6
-texlive-basic 2024.2-1
-texlive-bibtexextra 2024.2-1
-texlive-fontsextra 2024.2-1
-texlive-formatsextra 2024.2-1
-texlive-games 2024.2-1
-texlive-humanities 2024.2-1
-texlive-latexextra 2024.2-1
-texlive-mathscience 2024.2-1
-texlive-music 2024.2-1
-texlive-pictures 2024.2-1
-texlive-pstricks 2024.2-1
-texlive-publishers 2024.2-1
-thunar 4.18.10-2
-thunar-archive-plugin 0.5.2-1
-thunar-media-tags-plugin 0.4.0-2
-thunar-volman 4.18.0-1
-tmate 2.4.0-4
-tmux 3.4-8
-tree 2.1.1-1
-tree-sitter-cli 0.22.6-1
-ttf-firacode-nerd 3.2.1-2
-ttf-mononoki-nerd 3.2.1-2
-udiskie 2.5.2-2
-unetbootin 702-2
-unrar 1:7.0.9-1
-vial-appimage v0.6-2
-vim 9.1.0429-1
-virtualbox 7.0.18-1
-virtualbox-guest-utils 7.0.18-1
-vlc 3.0.20-9
-w3m 0.5.3.git20230713_1-1
-wget 1.24.5-2
-wire-desktop 3.34.3307-2
-wireless_tools 30.pre9-3
-wireplumber 0.5.2-2
-woeusb-ng 0.2.12-3
-wpa_supplicant_gui 2.10-1
-xbindkeys 1.8.7-4
-xclip 0.13-5
-xorg-bdftopcf 1.1.1-1
-xorg-docs 1.7.3-2
-xorg-font-util 1.4.1-1
-xorg-fonts-100dpi 1.0.4-2
-xorg-fonts-75dpi 1.0.4-1
-xorg-iceauth 1.0.10-1
-xorg-mkfontscale 1.2.3-1
-xorg-server 21.1.13-1
-xorg-server-devel 21.1.13-1
-xorg-server-xephyr 21.1.13-1
-xorg-server-xnest 21.1.13-1
-xorg-server-xvfb 21.1.13-1
-xorg-sessreg 1.1.3-1
-xorg-smproxy 1.0.7-1
-xorg-x11perf 1.6.2-1
-xorg-xbacklight 1.2.3-3
-xorg-xcmsdb 1.0.6-1
-xorg-xcursorgen 1.0.8-1
-xorg-xdpyinfo 1.3.4-1
-xorg-xdriinfo 1.0.7-1
-xorg-xev 1.2.6-1
-xorg-xgamma 1.0.7-1
-xorg-xhost 1.0.9-1
-xorg-xinit 1.4.2-1
-xorg-xinput 1.6.4-1
-xorg-xkbevd 1.1.5-1
-xorg-xkbutils 1.0.6-1
-xorg-xkill 1.0.6-1
-xorg-xlsatoms 1.1.4-1
-xorg-xlsclients 1.1.5-1
-xorg-xpr 1.2.0-1
-xorg-xrandr 1.5.2-1
-xorg-xrefresh 1.1.0-1
-xorg-xset 1.2.5-1
-xorg-xsetroot 1.1.3-1
-xorg-xvinfo 1.1.5-1
-xorg-xwayland 24.1.0-1
-xorg-xwd 1.0.9-1
-xorg-xwininfo 1.1.6-1
-xorg-xwud 1.0.6-1
-xterm 392-1
-yay-git 12.1.0.r19.g688434b-1
-zathura 0.5.6-2
-zathura-pdf-mupdf 0.4.2-1
-zip 3.0-11
-zoom 5.17.1-1
-zsh 5.9-5
+AUR packages:
 
+https://aur.archlinux.org/packages/apfs-fuse-git
+https://aur.archlinux.org/packages/python-pulsectl
+https://aur.archlinux.org/python-pulsectl-asyncio.git
+https://aur.archlinux.org/gromit-mpx.git
+https://aur.archlinux.org/huiontablet.git
+https://aur.archlinux.org/iscan.git
+https://aur.archlinux.org/mons.git
+https://aur.archlinux.org/nerd-fonts-complete-mono-glyphs.git
+https://aur.archlinux.org/nvim-packer-git.git
+https://aur.archlinux.org/samsung-unified-driver.git
+https://aur.archlinux.org/sublime-text-4.git
+https://aur.archlinux.org/unetbootin.git
+https://aur.archlinux.org/vial-appimage.git
+https://aur.archlinux.org/zoom.git
+https://aur.archlinux.org/woeusb-ng.git
+https://aur.archlinux.org/wpa_supplicant_gui.git
 
+## Other installed packages that could not be needed
 ardour 8.6-1
 arm-none-eabi-binutils 2.42-1
 arm-none-eabi-gcc 14.1.0-1
