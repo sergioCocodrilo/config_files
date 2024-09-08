@@ -1,0 +1,379 @@
+ERROR: ld.so: object '/home/sergio/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/sergio/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/sergio/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 212206 != 212202, skipping destruction (fork without exec?)
+pid 212209 != 212202, skipping destruction (fork without exec?)
+ERROR: ld.so: object '/home/sergio/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/sergio/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/sergio/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+pid 212214 != 212211, skipping destruction (fork without exec?)
+pid 212217 != 212211, skipping destruction (fork without exec?)
+Setting breakpad minidump AppID = 1579380
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198855763094 [API loaded no]
+tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_gl_interop GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Setting maxVSyncInterval to 4
+Renderer: NVAC
+Vendor:   Mesa
+Version:  3.3 (Core Profile) Mesa 23.3.3-arch1.1
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_performance_monitor GL_AMD_shader_trinary_minmax GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_bi
+nary GL_ARB_get_texture_sub_image GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_objects GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_comp
+ression_rgtc GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback_instanced GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffe
+r_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_
+MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 3.3 graphics device ; Context level  <OpenGL 3.3> ; Context handle 187770208
+AudioManager: Using PulseAudio: Default Output Device
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.Analytics.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/AmplifyColor.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/AmplifyColor.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Daedalic.Dbtool.Client.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Daedalic.Dbtool.Client.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/DecalSystem.Runtime.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/DecalSystem.Runtime.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.CrashLog.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/UnityEngine.CrashLog.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Rewired_Core.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Rewired_Core.dll into Unity Child Domain
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Rewired_Linux_Lib.dll (this message is harmless)
+Loading /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/Rewired_Linux_Lib.dll into Unity Child Domain
+- Completed reload, in  0.937 seconds
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/System.dll (this message is harmless)
+Default vsync count 0
+requesting resize -1 x -1
+Using native desktop resolution 1280 x 800
+requesting fullscreen 1280 x 800 at 0 Hz
+Desktop is 1280 x 800 @ 60 Hz
+Using libudev for joystick management
+
+
+Importing game controller configs
+Setting up 1 worker threads for Enlighten.
+UnloadTime: 4.702000 ms
+  Thread -> id: be400b40 -> priority: 1 
+Changing real window size to 638 x 772
+Changing real window size to 638 x 772
+Changing real window size to 1280 x 800
+Changing real window size to 1280 x 800
+Changing real window size to 1280 x 800
+GfxDevice: creating device client; threaded=1
+Non platform assembly: data-0xe0e2ac0 (this message is harmless)
+Fallback handler could not load library /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Mono/x86/data-0xe0e2ac0.so
+Non platform assembly: data-0xe102d60 (this message is harmless)
+Fallback handler could not load library /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Mono/x86/data-0xe102d60.so
+Non platform assembly: data-0xe1136c0 (this message is harmless)
+Fallback handler could not load library /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Mono/x86/data-0xe1136c0.so
+Platform assembly: /home/sergio/.local/share/Steam/steamapps/common/Shadow Tactics - Aiko's Choice/Shadow Tactics_Data/Managed/System.Xml.dll (this message is harmless)
+GfxDevice: creating device client; threaded=1
+StorageManager - Storage initialized.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+requesting resize 1280 x 800
+Using native desktop resolution 1280 x 800
+requesting fullscreen 1280 x 800 at 60 Hz
+Desktop is 1280 x 800 @ 60 Hz
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.230000 ms
+PresenceManager - Set presence to MainMenu.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 285 unused Assets to reduce memory usage. Loaded Objects now: 3799.
+Total: 68.905006 ms (FindLiveObjects: 0.558000 ms CreateObjectMapping: 0.219000 ms MarkObjects: 67.557999 ms  DeleteObjects: 0.560000 ms)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+UnloadTime: 38.074001 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 10271.
+Total: 251.547012 ms (FindLiveObjects: 1.637000 ms CreateObjectMapping: 14.276000 ms MarkObjects: 234.384003 ms  DeleteObjects: 1.239000 ms)
+
+Starting CAPT version: 1.1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UserManager - Sign in.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UserManager.OnSignedIn - userId: 0
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+StorageManager - Storage initialized.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MiConsoleUserManager - onStorageInitialized: Storage for user with id 0 initialized, waiting for save files
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MiConsoleUserManager - initialUserStorageInitialized: User id 0
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+##### Load Level: dlc_story_recap Memory: 0 Mono: 0 #####
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 108.356995 ms
+PresenceManager - Set presence to CurrentLevelAndDifficulty.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 248 unused Assets to reduce memory usage. Loaded Objects now: 34927.
+Total: 111.340004 ms (FindLiveObjects: 7.496000 ms CreateObjectMapping: 9.216001 ms MarkObjects: 80.303993 ms  DeleteObjects: 14.312000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 34927.
+Total: 92.731003 ms (FindLiveObjects: 6.687000 ms CreateObjectMapping: 7.056000 ms MarkObjects: 78.855003 ms  DeleteObjects: 0.123000 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+OPENGL NATIVE PLUG-IN ERROR: GL_INVALID_ENUM: enum argument out of range
+ 
+(Filename: /home/builduser/buildslave/unity/build/Runtime/GfxDevice/opengles/GfxDeviceGLES.cpp Line: 270)
+
+##### Load Level: lvl_dlc_00_hideout_town Memory: 0 Mono: 0 #####
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.082001 ms
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 192103.
+Total: 1803.552002 ms (FindLiveObjects: 145.866013 ms CreateObjectMapping: 63.799000 ms MarkObjects: 876.223022 ms  DeleteObjects: 717.652954 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 196478.
+Total: 1473.312988 ms (FindLiveObjects: 206.487000 ms CreateObjectMapping: 98.025002 ms MarkObjects: 1168.395020 ms  DeleteObjects: 0.395000 ms)
+
+##### Load Level: gui_mainMenuNew Memory: 0 Mono: 0 #####
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1947 unused Assets to reduce memory usage. Loaded Objects now: 61310.
+Total: 482.261993 ms (FindLiveObjects: 11.055000 ms CreateObjectMapping: 13.934999 ms MarkObjects: 266.260010 ms  DeleteObjects: 191.001999 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.191000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 61306.
+Total: 277.664001 ms (FindLiveObjects: 10.705000 ms CreateObjectMapping: 14.589000 ms MarkObjects: 242.206009 ms  DeleteObjects: 10.153999 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.761002 ms
+
+Unloading 19932 unused Assets to reduce memory usage. Loaded Objects now: 43209.
+Total: 793.572021 ms (FindLiveObjects: 11.682000 ms CreateObjectMapping: 12.415000 ms MarkObjects: 98.232002 ms  DeleteObjects: 671.230042 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+PresenceManager - Set presence to MainMenu.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 53525.
+Total: 210.522003 ms (FindLiveObjects: 11.439000 ms CreateObjectMapping: 9.104000 ms MarkObjects: 189.813995 ms  DeleteObjects: 0.155000 ms)
+
+Starting CAPT version: 1.1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+ 
+(Filename:  Line: 380)
+
