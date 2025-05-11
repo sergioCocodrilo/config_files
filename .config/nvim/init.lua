@@ -35,6 +35,7 @@ require("lazy").setup({
     --"terrortylor/nvim-comment",
     "tpope/vim-surround",
     "tpope/vim-fugitive",
+    "tpope/vim-dadbod",
     --
     {
     'nvim-telescope/telescope.nvim', tag = '0.1.4',
@@ -49,7 +50,35 @@ require("lazy").setup({
     'godlygeek/tabular',
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} }, -- indent guides
     "sindrets/diffview.nvim",
-    { 'echasnovski/mini.nvim', version = false }
+    { 'echasnovski/mini.nvim', version = false },
+    {
+        "hrsh7th/nvim-cmp",
+        lazy = false,
+        priority = 100,
+        dependencies = {
+            "hrsh7th/cmp-path",
+            "hrsh7th/cmp-buffer",
+        },
+        --config = function()
+            --require "custom.completion"
+        --end,
+    },
+    {
+        'kristijanhusak/vim-dadbod-ui',
+        dependencies = {
+            { 'tpope/vim-dadbod', lazy = true},
+            { 'kristijanhusak/vim-dadbod-completion', ft = { 'sql', 'mysql', 'plsql' }, lazy = true },
+        },
+        cmd = {
+            'DBUI',
+            'DBUIToggle',
+            'DBUIAddConnection',
+            'DBUIFindBuffer',
+        },
+        init = function()
+            vim.g.db_ui_use_nerd_fonts = 1
+        end,
+    }
 })
 
 -- Transparency
@@ -125,3 +154,15 @@ map('n', '<C-n>', ':NvimTreeToggle<CR>')
 vim.api.nvim_set_keymap('', '<leader>co', ':call nerdcommenter#Comment(0, "Toggle")<CR>', {noremap = true})
 
 require('mini.align').setup()
+
+vim.g.dbs = {
+    { name = 'dev', url = 'postgresql://postgres:sesergio@localhost:5432/s12' },
+}
+
+local cmp = require "cmp"
+cmp.setup.filetype({"sql"}, {
+    sources = {
+        { name = "vim-dadbod-completion" },
+        { name = "buffer" },
+    },
+})
