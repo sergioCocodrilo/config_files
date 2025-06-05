@@ -39,6 +39,9 @@ EOT
 Install https://aur.archlinux.org/b43-firmware.git for wifi
 sudo pacman -S intel-ucode # All users with an AMD or Intel CPU should install the microcode updates to ensure system stability.
 
+# turn off screen saver:
+xset s off -dpms
+
 Arch Install
 ------------------------------------------------------------
 
@@ -168,6 +171,7 @@ GRUB
     # mkdir /boot/EFI
     # mount /dev/sda1 /boot/EFI
     # grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck
+    # grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --recheck # opcion mas segura
     # grub-mkconfig -o /boot/grub/grub.cfg
 ```
 

@@ -1,6 +1,6 @@
+clear
 update-cache -f
 add ~/Music/
-clear
 cmus-remote -C clear
 add ~/Music
 clear -l

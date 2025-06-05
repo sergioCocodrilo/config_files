@@ -1,1 +1,2 @@
-@theme "Arc-Dark"
+//@theme "Arc-Dark"
+@theme "/usr/share/rofi/themes/android_notification.rasi"

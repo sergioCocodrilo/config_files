@@ -59,18 +59,19 @@ keys = [
     # Unsplit = 1 window displayed, like Max layout, but still with
     # multiple stack panes
     Key([mod, "shift"], "Return", lazy.layout.toggle_split(), desc="Toggle between split and unsplit sides of stack",),
-    Key([mod], "Return", lazy.spawn('kitty'), desc="Launch terminal"),
+    # Key([mod], "Return", lazy.spawn('kitty'), desc="Launch terminal"),
+    Key([mod], "Return", lazy.spawn('alacritty'), desc="Launch terminal"),
     # Toggle between different layouts as defined below
     Key([mod], "Tab", lazy.next_layout(), desc="Toggle between layouts"),
     Key([mod], "w", lazy.window.kill(), desc="Kill focused window"),
     Key([mod], "f", lazy.window.toggle_fullscreen(), desc="Toggle fullscreen on the focused window",),
     Key([mod], "t", lazy.window.toggle_floating(), desc="Toggle floating on the focused window"),
     Key([mod, "control"], "r", lazy.reload_config(), desc="Reload the config"),
-    Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
+    Key([mod], "q", lazy.shutdown(), desc="Shutdown Qtile"),
     Key([mod], "r", lazy.spawncmd(), desc="Spawn a command using a prompt widget"),
     Key([mod], "s", lazy.next_screen(), desc="Go to next screen"),
     Key([mod], "d", lazy.spawn("rofi -show run"), desc="Show Rofi"),
-    Key([mod], "i", lazy.spawn("firefox"), desc="Open Firefox"),
+    Key([mod], "i", lazy.spawn("brave"), desc="Open Firefox"),
     Key(["mod1"], "k", lazy.widget["keyboardlayout"].next_keyboard(), desc='layout toggle'),
 ]
 
@@ -115,19 +116,19 @@ for i in groups:
     )
 
 layouts = [
+    layout.Bsp(),
     layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], border_width=4),
     layout.Max(),
     # Try more layouts by unleashing below layouts.
-    # layout.Stack(num_stacks=2),
-    # layout.Bsp(),
-    # layout.Matrix(),
-    # layout.MonadTall(),
-    # layout.MonadWide(),
-    # layout.RatioTile(),
-    # layout.Tile(),
-    # layout.TreeTab(),
-    # layout.VerticalTile(),
-    # layout.Zoomy(),
+    layout.Stack(num_stacks=2),
+    layout.Matrix(),
+    layout.MonadTall(),
+    layout.MonadWide(),
+    layout.RatioTile(),
+    layout.Tile(),
+    layout.TreeTab(),
+    layout.VerticalTile(),
+    layout.Zoomy(),
 ]
 
 widget_defaults = dict(
@@ -197,7 +198,7 @@ screens = [
                 widget.Spacer( length=8, background='#282738',),
                 widget.TextBox("🎵", name="spacer", background="#282738", foreground='#4B427E'),
                 widget.PulseVolume(
-                    font='JetBrainsMono Mono Bold',
+                    font='Iosevka Nerd Font',
                     # emoji=True,
                     foreground='#CAA9E0',
                     emoji=False,
@@ -206,7 +207,7 @@ screens = [
                 ),
                 widget.Spacer( length=8, background='#282738',),
                 widget.KeyboardLayout(
-                    font='JetBrainsMono Mono Bold',
+                    font='Iosevka Nerd Font',
                     foreground='#CAA9E0',
                     emoji=False,
                     fontsize=13,
@@ -223,6 +224,9 @@ screens = [
                     fontsize=18,
                 ),
                 widget.Spacer( length=18, background='#282738',),
+                widget.TextBox("~", name="spacer", background="#282738", foreground='#4B427E'),
+                widget.Systray(),
+                widget.TextBox("~", name="spacer", background="#282738", foreground='#4B427E'),
             ],
             30,
             border_color = '#282738',
@@ -290,7 +294,7 @@ screens = [
                 widget.Spacer( length=8, background='#282738',),
                 widget.TextBox("🎵", name="spacer", background="#282738", foreground='#4B427E'),
                 widget.PulseVolume(
-                    font='JetBrainsMono Mono Bold',
+                    font='Iosevka Nerd Font',
                     # emoji=True,
                     foreground='#CAA9E0',
                     emoji=False,
@@ -299,7 +303,7 @@ screens = [
                 ),
                 widget.Spacer( length=8, background='#282738',),
                 widget.KeyboardLayout(
-                    font='JetBrainsMono Mono Bold',
+                    font='Iosevka Nerd Font',
                     foreground='#CAA9E0',
                     emoji=False,
                     fontsize=13,
@@ -312,7 +316,7 @@ screens = [
                     format='%d/%m %I:%M %p',
                     background='#282738',
                     foreground='#FFC300',
-                    font="JetBrains Mono Bold",
+                    font="Iosevka Nerd Font",
                     fontsize=18,
                 ),
                 widget.Spacer( length=18, background='#282738',),
@@ -320,7 +324,7 @@ screens = [
             30,
             border_color = '#282738',
             border_width = [0,0,0,0],
-            margin = [15,10,6,10],
+            # margin = [15,10,6,10],
         ),
     ),
 ]

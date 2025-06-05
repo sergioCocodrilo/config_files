@@ -11,6 +11,7 @@ HISTSIZE=1000
 SAVEHIST=1000
 unsetopt beep
 bindkey -e
+bindkey "^[[3~" delete-char
 # End of lines configured by zsh-newuser-install
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/sergio/.zshrc'
@@ -138,3 +139,6 @@ convert-to-game-usbloadergx() {
 }
 # }}}
 #
+#
+SPARK_HOME=~/Dowloads/spark/spark-3.5.5-bin-hadoop3
+export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/bin

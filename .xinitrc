@@ -30,13 +30,19 @@ if [ -d /etc/X11/xinit/xinitrc.d ]; then
 	unset f
 fi
 
-exec xrandr --output DP-4 --auto --output HDMI-0 --auto --left-of DP-4 &
+#exec xrandr --output DP-4 --auto --output HDMI-0 --auto --left-of DP-4 &
+#exec xrandr --output DP-4 --auto --output HDMI-0 --mode 2560x1440 --left-of DP-4 &
+exec xrandr --output DP-4 --auto --output HDMI-0 --mode 3840x2160 --left-of DP-4 &
 nitrogen --restore &
 picom &
 udiskie -a &
+nm-applet &
 xbindkeys
-setxkbmap -option caps:escape
-setxkbmap -layout us,es -option grp:ctrl_alt_toggle
+#setxkbmap -option caps:escape
+setxkbmap -layout us,latam
+setxkbmap -option 'grp:alt_space_toggle'
 PATH="/home/sergio/.local/bin:$PATH"
-exec qtile start
-#exec i3
+#bash ~/.config/polybar/launch.sh --blocks &
+#exec qtile start
+#exec startxfce4
+exec i3
