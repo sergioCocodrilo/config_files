@@ -11,7 +11,7 @@ vim.o.shiftwidth = 4
 vim.o.tabstop = 4
 vim.o.wrap = false
 
--- plugin manager
+--======================================== plugins manager
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
     vim.fn.system({
@@ -25,11 +25,19 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
--- plugins
+--======================================== plugins
 require("lazy").setup({
+
     -- support for Neovim and other plugs
 	"nvim-lua/plenary.nvim",    
     { "echasnovski/mini.nvim", version = false },
+
+
+    -- completition
+    --{"neoclide/coc.nvim",
+        --branch= 'release'
+    --},
+    --"neovim/nvim-lspconfig",
 
     -- syntax
     "nvim-treesitter/nvim-treesitter",
@@ -46,17 +54,11 @@ require("lazy").setup({
 	  dependencies = "nvim-tree/nvim-web-devicons",
 	},
     "kamykn/spelunker.vim", -- spelling
-    --"godlygeek/tabular", -- alignment
     { "lukas-reineke/indent-blankline.nvim", main = "ibl", opts = {} }, -- indent guides
     "sindrets/diffview.nvim",
 
     -- word highlights
-    --"RRethy/vim-illuminate"
-    "inkarkat/vim-ingo-library", -- dependency of vim-mark
-    "inkarkat/vim-mark",
-    --"haya14busa/vim-asterisk",
-    "itchyny/vim-cursorword",
-
+    "RRethy/vim-illuminate",
 
     "preservim/nerdcommenter",
     "tpope/vim-surround",
@@ -82,23 +84,6 @@ require("lazy").setup({
 
 })
 
--- Transparency
--- require("transparent").setup({
---   extra_groups = { -- table/string: additional groups that should be cleared
---     -- In particular, when you set it to "all", that means all available groups
--- 
---     -- example of akinsho/nvim-bufferline.lua
---     "BufferLineTabClose",
---     "BufferlineBufferSelected",
---     "BufferLineFill",
---     "BufferLineBackground",
---     "BufferLineSeparator",
---     "BufferLineIndicatorSelected",
---   },
---   exclude_groups = {}, -- table: groups you don"t want to clear
--- })
-
-
 vim.opt.background = "light"
 --vim.cmd[[colorscheme tokyonight]]
 --vim.cmd[[colorscheme edge]]
@@ -121,7 +106,7 @@ vim.opt.termguicolors = true
 
 -- empty setup using defaults
 require("nvim-tree").setup()
--- require("nvim_comment").setup()
+
 
 
 require"nvim-treesitter.configs".setup {
@@ -148,9 +133,8 @@ require"nvim-treesitter.configs".setup {
 
 require("ibl").setup()
 
-------------------------------------------------------------
--- mappings
-------------------------------------------------------------
+--======================================== MAPPINGS
+
 local function map(mode, key, value)
 	vim.keymap.set(mode, key, value, {silent = true})
 end
@@ -161,23 +145,40 @@ vim.g.dbs = {
     { name = 'dev', url = 'postgresql://postgres:sesergio@localhost:5432/s12' },
 }
 
---local cmp = require "cmp"
---cmp.setup.filetype({"sql"}, {
-    --sources = {
-        --{ name = "vim-dadbod-completion" },
-        --{ name = "buffer" },
-    --},
---})
 
--- highlight word under cursor
----- no plugin
---vim.api.nvim_set_keymap("", "<F5>", ":match StatusLineTerm /<C-R><C-W>/<CR>", {noremap = true}) 
--- illuminate plugin
---vim.api.nvim_set_keymap("", "<F5>", ":IlluminateToggle<CR>", {noremap = true})
--- nvim-cursorword plugin
---vim.api.nvim_set_keymap("", "<F5>", ":CursorWordToggle<CR>", {noremap = true})
-vim.api.nvim_set_keymap("", "<leader>hi", ":CursorWordToggle<CR>", {noremap = true})
+--==================== HIGHLIGHT WORD UNDER CURSOR
+vim.api.nvim_set_keymap("", "<F5>", ":IlluminateToggle<CR>", {noremap = true})
+vim.api.nvim_set_keymap("", "<F6>", ":set hls! <CR>", {noremap = true}) -- toggle search highlights
 
-vim.keymap.set("n", "<leader>ff", builtin.find_files, {})
+vim.keymap.set('n', 'z/', function()
+    if AutoHighlightToggle() then
+        vim.opt.hlsearch = true
+    end
+end, { noremap = true, silent = true })
+
+-- Función de alternar resaltado
+function AutoHighlightToggle()
+    vim.fn.setreg('/', '')
+  
+    if vim.fn.exists('#auto_highlight') == 1 then
+        vim.api.nvim_del_augroup_by_name('auto_highlight')
+        vim.opt.updatetime = 4000
+        print('Highlight current word: off')
+        return false
+    else
+        local augroup = vim.api.nvim_create_augroup('auto_highlight', { clear = true })
+        vim.api.nvim_create_autocmd('CursorHold', {
+            group = augroup,
+            callback = function()
+                vim.fn.setreg('/', '\\V\\<' .. vim.fn.escape(vim.fn.expand('<cword>'), '\\') .. '\\>')
+            end
+        })
+        vim.opt.updatetime = 100
+        print('Highlight current word: ON')
+        return true
+    end
+end
+
+
 
 require("mini.align").setup()
