@@ -72,22 +72,24 @@ require("lazy").setup({
 
     -- COLOR THEMES
     --"folke/tokyonight.nvim",
-    {
-      "sainnhe/edge",
-      lazy = false,
-      priority = 1000,
-      config = function()
-        vim.g.edge_enable_italic = true
-        vim.cmd.colorscheme("edge")
-      end
-    },
+    --{
+      --"sainnhe/edge",
+      --lazy = false,
+      --priority = 1000,
+      --config = function()
+        --vim.g.edge_enable_italic = true
+        --vim.cmd.colorscheme("edge")
+      --end
+    --},
+    { "ellisonleao/gruvbox.nvim", priority = 1000 , config = true, }
 
 })
 
-vim.opt.background = "light"
+vim.opt.background = "dark"
 --vim.cmd[[colorscheme tokyonight]]
 --vim.cmd[[colorscheme edge]]
 --vim.cmd.colorscheme "catppuccin"
+vim.cmd[[colorscheme gruvbox]]
 
 -- telescope
 local builtin = require("telescope.builtin")
