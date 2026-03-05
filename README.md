@@ -49,6 +49,16 @@ Arch Install
 1. Connect to the internet (Conectar a internet y probar)
 
 ```
+    iwctl
+    device list             PARA SABER EL NOMBRE DE LA TARJETA DE RED (USUALMENTE wlan0)
+    station [nombre_de_tu_dispositivo] scan
+    station [nombre_de_tu_dispositivo] get-networks
+    station [nombre_de_tu_dispositivo] connect "Nombre de tu red"
+    exit
+```
+    
+
+```
     # ip link               MUESTRA DATOS DE CONEXIÓN
     # ping archlinux.org    INTENTA REALIZAR UNA CONEXIÓN A archlinux.org, SI ES EXITOSO SE RECIBEN PAQUETES. TERMINAR CON CTRL+C
 

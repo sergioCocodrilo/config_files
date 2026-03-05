@@ -6,9 +6,9 @@ vim.o.colorcolumn = "80"
 vim.o.expandtab = true
 vim.o.number = true
 vim.o.relativenumber = true
-vim.o.scrolloff = 4
-vim.o.shiftwidth = 4
-vim.o.tabstop = 4
+vim.o.scrolloff = 2
+vim.o.shiftwidth = 2
+vim.o.tabstop = 2
 vim.o.wrap = false
 
 --======================================== plugins manager
@@ -37,7 +37,10 @@ require("lazy").setup({
     --{"neoclide/coc.nvim",
         --branch= 'release'
     --},
-    --"neovim/nvim-lspconfig",
+    { "neovim/nvim-lspconfig",
+      config = function()
+      end,
+    },
 
     -- syntax
     "nvim-treesitter/nvim-treesitter",

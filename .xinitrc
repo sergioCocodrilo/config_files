@@ -32,7 +32,7 @@ fi
 
 #exec xrandr --output DP-4 --auto --output HDMI-0 --auto --left-of DP-4 &
 #exec xrandr --output DP-4 --auto --output HDMI-0 --mode 2560x1440 --left-of DP-4 &
-exec xrandr --output DP-4 --auto --output HDMI-0 --mode 3840x2160 --left-of DP-4 &
+exec xrandr --output DP-4 --auto --output HDMI-0 --mode 3840x2160 --above DP-4 &
 nitrogen --restore &
 picom &
 udiskie -a &
